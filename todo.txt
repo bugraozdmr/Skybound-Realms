@@ -1,0 +1,16 @@
+Proje yapı önerisi:
+sky_hopper/
+├── assets/
+│   ├── player.png
+│   ├── grass.png
+│   ├── rock.png
+│   ├── ice.png
+│   ├── coin.png
+│   ├── portal.png
+├── main.py
+├── player.py
+├── platform.py
+├── portal.py
+├── coin.py
+├── scene_manager.py
+
